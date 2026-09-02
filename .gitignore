@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env.venv/
+
+# Environment Variables & Secrets
+.env
+*.env
+*.pem
+*.key
+credentials.json
+token.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Web Drivers & Large Binaries
+*.exe
+chromedriver.exe
+geckodriver.exe
+*.zip
+*.tar.gz
+
+# Large Media & Datasets
+*.mp4
+*.mkv
+*.avi
+*.sqlite3
+*.db
+
+*.xlsx
+*.csv
+logfile.txt
